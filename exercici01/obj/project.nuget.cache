@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "88XHe5tgdeHAVDE0Ho144lw0pEVXOierODwZUWAq6BwWv2IFyvAvFGrOpfqFDiyjlM9qupzm5aQfRUAkf0ghXQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Marc\\Documents\\dam\\m7\\UF1\\s07dp\\exercici01\\exercici01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marc\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.22\\microsoft.netcore.app.runtime.win-x64.6.0.22.nupkg.sha512",
+    "C:\\Users\\Marc\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.22\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.22.nupkg.sha512",
+    "C:\\Users\\Marc\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.22\\microsoft.aspnetcore.app.runtime.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

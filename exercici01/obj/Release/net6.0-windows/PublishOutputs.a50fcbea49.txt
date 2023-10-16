@@ -1,0 +1,5 @@
+D:\Users\Marc\Documents\dam\m7\UF1\s07dp\exercici01\bin\Release\net6.0-windows\publish\exercici01.exe
+D:\Users\Marc\Documents\dam\m7\UF1\s07dp\exercici01\bin\Release\net6.0-windows\publish\exercici01.dll
+D:\Users\Marc\Documents\dam\m7\UF1\s07dp\exercici01\bin\Release\net6.0-windows\publish\exercici01.deps.json
+D:\Users\Marc\Documents\dam\m7\UF1\s07dp\exercici01\bin\Release\net6.0-windows\publish\exercici01.runtimeconfig.json
+D:\Users\Marc\Documents\dam\m7\UF1\s07dp\exercici01\bin\Release\net6.0-windows\publish\exercici01.pdb
